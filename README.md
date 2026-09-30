@@ -42,8 +42,6 @@ Atualmente, meu principal foco de estudos e desenvolvimento está em:
 
 ## Desenvolvimento
 
-**React Native • React (JS/TS) • TypeScript • JavaScript • HTML5 • CSS3 • Tailwind CSS • NativeWind • Python • SQL • FastAPI • REST APIs • C • C++ • Node.js**
-
 <p>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
   <img src="https://img.shields.io/badge/React_(JS%2FTS)-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
@@ -64,8 +62,6 @@ Atualmente, meu principal foco de estudos e desenvolvimento está em:
 
 ## Ferramentas
 
-**Git • GitHub • Expo • Docker • PostgreSQL**
-
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -76,8 +72,6 @@ Atualmente, meu principal foco de estudos e desenvolvimento está em:
 
 ## Metodologias
 
-**Scrum • Kanban • Lean**
-
 <p>
   <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge" alt="Scrum">
   <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Kanban">
@@ -86,16 +80,12 @@ Atualmente, meu principal foco de estudos e desenvolvimento está em:
 
 ## Design
 
-**Figma • UI/UX**
-
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/UI%2FUX-FF61F6?style=for-the-badge" alt="UI/UX">
 </p>
 
 ## Atualmente Estudando
-
-**C# • .NET • RPA • Automação de Processos**
 
 <p>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
